@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Travel Statz</string>
+    <string name="app_description">Track expected travel times</string>
+    <string name="label_update">Update</string>
+    <string name="label_start_trip">Start Trip</string>
+    <string name="label_stop_trip">Stop Trip</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Notification Strings -->
+    <string name="notification_channel_name"></string>
+    <string name="notification_title">Travel Stratz</string>
+    <string name="notification_message">Tracking your travel times</string>
+    <string name="ticker_text">Not sure what this is</string>
+    <string name="history_activity">History</string>
+    <string name="main_activity">Trip</string>
+</resources>
